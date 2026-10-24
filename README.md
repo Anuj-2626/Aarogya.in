@@ -14,10 +14,9 @@ The project explores how modern web technologies and AI-assisted capabilities ca
 
 ## 🌐 Project Links
 
-* **Live Website:** [Visit Aarogya.in](YOUR_LIVE_WEBSITE_URL)
-* **GitHub Repository:** [Aarogya.in Source Code](https://github.com/Anuj-2626/Aarogya.in)
+* **Live Website:** [Visit Aarogya.in](https://aarogya-healthcare-p-62vk.bolt.host/)
+* **GitHub Repository:** [Aarogya.in Source Code](https://github.com/Anuj-2626/Aarogya.in.git)
 
-> Replace `YOUR_LIVE_WEBSITE_URL` with the actual deployed website URL. The GitHub repository link points to the source code, not necessarily a live deployment.
 
 ---
 
